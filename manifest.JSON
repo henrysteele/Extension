@@ -3,6 +3,9 @@
 	"description": "Selects next video after a timeout - great for interval workouts",
 	"version": "1.0",
 	"manifest_version": 3,
+	"icons": {
+		"48": "stopwatchheart.png"
+	},
 	"action": {
 		"default_popup": "hello.html"
 	},
